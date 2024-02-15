@@ -3,7 +3,7 @@
     background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url("../resources/Banner Image.png");
     height: 600px;
     max-width: 1320px;
-    margin: 50px auto 130px;
+    margin: 50px auto 110px;
     border-radius: 16px;
     background-repeat: no-repeat;
 }
@@ -59,4 +59,50 @@
 .new-yr-pic {
     width: 802.9px;
     height: 500px;
+}
+
+/* welcome party section */
+.party-section {
+    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url("../resources/Vectorrr.png");
+    max-width: 1320px;
+    height: 600px;
+    margin: 130px auto 130px;
+    border-radius: 16px;
+    background-repeat: no-repeat;
+
+}
+
+.wlc-party-title {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    width: 642px;
+    padding: 126px 0 0 126px;
+    margin-bottom: 0;
+}
+
+.wlc-party-details {
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    width: 697px;
+    margin-left: 126px;
+    margin-top: 30px;
+}
+
+.join-now {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 126px;
+    margin-top: 40px;
+}
+
+.img {
+    width: 319.83px;
+    height: 464.662px;
+    margin: -380px 120px 68px 860px;
 }
