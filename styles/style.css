@@ -185,6 +185,7 @@
     border-radius: 363px;
     border: 15px solid #F00;
     align-items: center;
+    margin-left: -60px;
 }
 
 .best-offer-img {
@@ -217,4 +218,78 @@
 .best-offer-wish-img {
     width: 140px;
     height: 140px;
+}
+
+/* holiday-sale */
+.holiday-sale {
+    max-width: 1320px;
+    height: 750px;
+    margin: 200px auto 110px;
+}
+
+.holiday-sale-texts {
+    text-align: center;
+}
+
+.holiday-sale-title1 {
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+
+.holiday-sale-title2 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+.holiday {
+    color: #F00;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+}
+
+.holiday-sale-details {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.holiday-sale-img {
+    position: relative;
+    margin-top: 130px;
+}
+
+.holiday-imgs {
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+
+.holiday-sale-img1 {
+    position: absolute;
+    right: 0;
+    bottom: 233px;
+}
+
+.holiday-sale-img2 {
+    position: absolute;
+    right: 280px;
+    bottom: 280px;
+}
+
+.holiday-sale-img3 {
+    position: sticky;
+    margin-bottom: -300px;
+    scale: 0.7;
 }
