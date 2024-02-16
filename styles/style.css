@@ -407,3 +407,40 @@
     border: none;
     color: #FFF;
 }
+
+/* footer */
+.footer {
+    height: 600px;
+    background: #070211;
+    padding: 120px;
+}
+.footer-detail {
+
+}
+.footer-address {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+.footer-phn-web {
+
+}
+.footer-phn {
+
+}
+.footer-phn-icon {
+
+}
+.footer-phn-no {
+
+}
+.footer-website {
+
+}
+.footer-website-icon {
+
+}
+.footer-website-address {
+
+}
